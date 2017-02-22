@@ -20,8 +20,8 @@ Reward scheme:
 
 Proof of Work:
 - NO PREMINE
-- NO REWARD until height 1000 (to avoid lowdiff instamine)
-- After block 1000, reward is 50 COINS.
+- NO REWARD until height 500 (to avoid lowdiff instamine)
+- After block 500, reward is 50 COINS.
 - Halving every 4 years (every 420480 blocks)
 
 Proof of Stake:
