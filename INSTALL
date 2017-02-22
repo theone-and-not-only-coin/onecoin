@@ -1,0 +1,9 @@
+Building Onecoin
+
+See doc/readme-qt.rst for instructions on building Onecoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Onecoin.
+
+See doc/build-*.txt for instructions on building onecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Onecoin.
