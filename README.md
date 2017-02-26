@@ -8,7 +8,7 @@ There are no seed nodes so your wallet will not connect, again see forums for us
 
 About the coin:
 
-- Name: OneCoin Ticker: ONE
+- Name: OneCoin Ticker: OC
 - Fork of Blackcoin (added miner (setgenerate), removed alert function, cleaned up the forks, other details below)
 - Block time: 10 minutes (effectively 5 minutes, since pow and pos blocks are targeted at 10min)
 - PoW mining algorithm: SHA256T (Tripple Sha256)
