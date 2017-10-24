@@ -1,12 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Onecoin
-Comment=Onecoin P2P Cryptocurrency
-Comment[fr]=Onecoin, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=Onecoin, eşten eşe kriptografik sanal para birimi
-Exec=/usr/bin/onecoin-qt
+Name=OC
+Comment=OC P2P Cryptocurrency
+Comment[fr]=OC, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=OC, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/oc-qt
 Terminal=false
 Type=Application
 Icon=/usr/share/pixmaps/bitcoin80.xpm
-MimeType=x-scheme-handler/onecoin;
+MimeType=x-scheme-handler/oc;
 Categories=Office;

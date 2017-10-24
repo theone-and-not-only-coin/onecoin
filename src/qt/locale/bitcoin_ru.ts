@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Onecoin</source>
-        <translation>О Onecoin</translation>
+        <source>About OC</source>
+        <translation>О OC</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Onecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Onecoin&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;OC&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;OC&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Onecoin developers</source>
+Copyright © 2014 The OC developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
 Все права защищены © 2012-2014 Разработчики NovaCoin
-Все права защищены © 2014 Разработчики Onecoin</translation>
+Все права защищены © 2014 Разработчики OC</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,7 +60,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Onecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your OC addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Onecoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Onecoin</translation>
+        <source>Sign a message to prove you own a OC address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом OC</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Onecoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Onecoin</translation>
+        <source>Verify a message to ensure it was signed with a specified OC address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом OC</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,7 +258,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Onecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>OC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши монеты от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Onecoin</source>
-        <translation>Показать информацию о Onecoin&apos;е</translation>
+        <source>Show information about OC</source>
+        <translation>Показать информацию о OC&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Onecoin address</source>
-        <translation>Отправить монеты на указанный адрес Onecoin</translation>
+        <source>Send coins to a OC address</source>
+        <translation>Отправить монеты на указанный адрес OC</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Onecoin</source>
-        <translation>Изменить параметры конфигурации Onecoin</translation>
+        <source>Modify configuration options for OC</source>
+        <translation>Изменить параметры конфигурации OC</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Onecoin</source>
-        <translation>Onecoin</translation>
+        <source>OC</source>
+        <translation>OC</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Onecoin</source>
-        <translation>&amp;О Onecoin</translation>
+        <source>&amp;About OC</source>
+        <translation>&amp;О OC</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,12 +500,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Onecoin client</source>
-        <translation>Onecoin клиент</translation>
+        <source>OC client</source>
+        <translation>OC клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Onecoin network</source>
+        <source>%n active connection(s) to OC network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -600,8 +600,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Onecoin address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом Onecoin или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid OC address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом OC или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Onecoin can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. Onecoin не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. OC can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. OC не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1043,8 +1043,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Onecoin address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным Onecoin-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid OC address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным OC-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1062,8 +1062,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Onecoin-Qt</source>
-        <translation>Onecoin-Qt</translation>
+        <source>OC-Qt</source>
+        <translation>OC-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1135,13 +1135,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Onecoin after logging in to the system.</source>
-        <translation>Автоматически запускать Onecoin после входа в систему</translation>
+        <source>Automatically start OC after logging in to the system.</source>
+        <translation>Автоматически запускать OC после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Onecoin on system login</source>
-        <translation>&amp;Запускать Onecoin при входе в систему</translation>
+        <source>&amp;Start OC on system login</source>
+        <translation>&amp;Запускать OC при входе в систему</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1150,8 +1150,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Onecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для Onecoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the OC client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для OC-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,7 +1180,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Onecoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the OC network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1225,8 +1225,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Onecoin.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска Onecoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting OC.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска OC.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1292,8 +1292,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Onecoin.</source>
-        <translation>Эта настройка вступит в силу после перезапуска Onecoin</translation>
+        <source>This setting will take effect after restarting OC.</source>
+        <translation>Эта настройка вступит в силу после перезапуска OC</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1311,8 +1311,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Onecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Onecoin после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the OC network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью OC после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1385,7 +1385,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start onecoin: click-to-pay handler</source>
+        <source>Cannot start oc: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1553,8 +1553,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Onecoin-Qt help message to get a list with possible Onecoin command-line options.</source>
-        <translation>Показать помощь по Onecoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the OC-Qt help message to get a list with possible OC command-line options.</source>
+        <translation>Показать помощь по OC-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Onecoin - Debug window</source>
-        <translation>Onecoin - Окно отладки</translation>
+        <source>OC - Debug window</source>
+        <translation>OC - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Onecoin Core</source>
-        <translation>Ядро Onecoin</translation>
+        <source>OC Core</source>
+        <translation>Ядро OC</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1588,8 +1588,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Onecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл Onecoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the OC debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл OC из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Onecoin RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль Onecoin.</translation>
+        <source>Welcome to the OC RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль OC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1779,8 +1779,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Onecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите Onecoin-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите OC-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1879,7 +1879,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Onecoin address</source>
+        <source>WARNING: Invalid OC address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1953,8 +1953,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Onecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите Onecoin-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите OC-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2014,8 +2014,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Onecoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Onecoin</translation>
+        <source>Sign the message to prove you own this OC address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом OC</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2046,8 +2046,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Onecoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Onecoin</translation>
+        <source>Verify the message to ensure it was signed with the specified OC address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом OC</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2057,8 +2057,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Onecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите адрес Onecoin (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите адрес OC (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2067,8 +2067,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Onecoin signature</source>
-        <translation>Введите подпись Onecoin</translation>
+        <source>Enter OC signature</source>
+        <translation>Введите подпись OC</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2646,7 +2646,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>Onecoin version</source>
+        <source>OC version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2656,8 +2656,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or onecoind</source>
-        <translation>Отправить команду на -server или onecoind</translation>
+        <source>Send command to -server or ocd</source>
+        <translation>Отправить команду на -server или ocd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2677,13 +2677,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: onecoin.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: onecoin.conf)</translation>
+        <source>Specify configuration file (default: oc.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: oc.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: onecoind.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: onecoind.pid)</translation>
+        <source>Specify pid file (default: ocd.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: ocd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2700,13 +2700,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=onecoinrpc
+rpcuser=ocrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;OC Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2812,8 +2812,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Onecoin will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, Onecoin будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong OC will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, OC будет работать некорректно.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3108,7 +3108,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Onecoin is shutting down.</source>
+        <source>Initialization sanity check failed. OC is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3163,13 +3163,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Onecoin</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию Onecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of OC</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию OC</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Onecoin to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите Onecoin для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart OC to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите OC для завершения операции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3228,8 +3228,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. Onecoin is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, Onecoin уже работает.</translation>
+        <source>Unable to bind to %s on this computer. OC is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, OC уже работает.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3263,7 +3263,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Onecoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. OC is probably already running.</source>
         <translation>Невозможно установить блокировку на рабочую директорию %s.  Возможно, бумажник уже запущен.</translation>
     </message>
     <message>

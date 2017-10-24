@@ -5,29 +5,29 @@
 #build/bitcoind::
 #	$(if $(filter nocheck,$(DEB_BUILD_OPTIONS)),,src/test_bitcoin)
 
-DEB_INSTALL_EXAMPLES_onecoind += debian/examples/*
-DEB_INSTALL_MANPAGES_onecoind += debian/manpages/*
+DEB_INSTALL_EXAMPLES_ocd += debian/examples/*
+DEB_INSTALL_MANPAGES_ocd += debian/manpages/*
 
 %:
 	dh --with bash-completion $@
 
 override_dh_auto_build:
-	cd src; $(MAKE) -f makefile.unix onecoind
+	cd src; $(MAKE) -f makefile.unix ocd
 	$(MAKE)
 
 override_dh_auto_clean:
-	if [ -f Makefile ]; then $(MAKE) clean; else rm -rf build/; rm -f onecoin-qt; fi
+	if [ -f Makefile ]; then $(MAKE) clean; else rm -rf build/; rm -f oc-qt; fi
 	cd src; $(MAKE) -f makefile.unix clean
 
 override_dh_auto_configure:
-	qmake onecoin-qt.pro USE_QRCODE=1
+	qmake oc-qt.pro USE_QRCODE=1
 
 override_dh_auto_test:
-	cd src; $(MAKE) -f makefile.unix test_onecoin
-	src/test_onecoin
+	cd src; $(MAKE) -f makefile.unix test_oc
+	src/test_oc
 
 # Ensure wrapper is set executable
-binary-post-install/onecoind:
-	chmod +x $(cdbs_curdestdir)usr/bin/onecoind
-binary-post-install/onecoin-qt:
-	chmod +x $(cdbs_curdestdir)usr/bin/onecoin-qt
+binary-post-install/ocd:
+	chmod +x $(cdbs_curdestdir)usr/bin/ocd
+binary-post-install/oc-qt:
+	chmod +x $(cdbs_curdestdir)usr/bin/oc-qt

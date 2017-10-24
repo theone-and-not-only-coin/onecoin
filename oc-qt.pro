@@ -1,6 +1,6 @@
 TEMPLATE = app
-TARGET = opencoin-qt
-VERSION = 1.2.2
+TARGET = oc-qt
+VERSION = 1.0.0
 INCLUDEPATH += src src/json src/qt
 QT += network
 DEFINES += ENABLE_WALLET

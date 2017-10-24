@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Onecoin</source>
-        <translation>Over Onecoin</translation>
+        <source>About OC</source>
+        <translation>Over OC</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Onecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Onecoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;OC&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;OC&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Onecoin developers</source>
+Copyright © 2014 The OC developers</source>
         <translation>Copyright © 2009-2014 De Bitcoin ontwikkelaars
 Copyright © 2012-2014 De NovaCoin ontwikkelaars
-Copyright © 2014 De Onecoin ontwikkelaars</translation>
+Copyright © 2014 De OC ontwikkelaars</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Onecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn al jou Onecoin adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
+        <source>These are your OC addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn al jou OC adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Onecoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een Onecoin adres bezit.</translation>
+        <source>Sign a message to prove you own a OC address</source>
+        <translation>Teken een bericht om te bewijzen dat je een OC adres bezit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Onecoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Onecoin adres</translation>
+        <source>Verify a message to ensure it was signed with a specified OC address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek OC adres</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Onecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Onecoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
+        <source>OC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>OC zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Onecoin</source>
-        <translation>Toon informatie over Onecoin</translation>
+        <source>Show information about OC</source>
+        <translation>Toon informatie over OC</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Onecoin address</source>
-        <translation>Verstuur munten naar een Onecoin adres</translation>
+        <source>Send coins to a OC address</source>
+        <translation>Verstuur munten naar een OC adres</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Onecoin</source>
-        <translation>Verander configuratie opties voor Onecoin</translation>
+        <source>Modify configuration options for OC</source>
+        <translation>Verander configuratie opties voor OC</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Onecoin</source>
-        <translation>Onecoin</translation>
+        <source>OC</source>
+        <translation>OC</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Onecoin</source>
-        <translation>&amp;Over Onecoin</translation>
+        <source>&amp;About OC</source>
+        <translation>&amp;Over OC</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Onecoin client</source>
-        <translation>Onecoin client</translation>
+        <source>OC client</source>
+        <translation>OC client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Onecoin network</source>
-        <translation><numerusform>%n actieve verbinding naar Onecoin netwerk</numerusform><numerusform>%n actieve verbindingen naar Onecoin netwerk</numerusform></translation>
+        <source>%n active connection(s) to OC network</source>
+        <translation><numerusform>%n actieve verbinding naar OC netwerk</numerusform><numerusform>%n actieve verbindingen naar OC netwerk</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Onecoin address or malformed URI parameters.</source>
-        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig Onecoin adres of incorrecte URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid OC address or malformed URI parameters.</source>
+        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig OC adres of incorrecte URI parameters.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Onecoin can no longer continue safely and will quit.</source>
-        <translation>Een fatale fout . Onecoin kan niet langer veilig doorgaan en sluit af.</translation>
+        <source>A fatal error occurred. OC can no longer continue safely and will quit.</source>
+        <translation>Een fatale fout . OC kan niet langer veilig doorgaan en sluit af.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Onecoin address.</source>
-        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig Onecoin adres.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid OC address.</source>
+        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig OC adres.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Onecoin-Qt</source>
-        <translation>Onecoin-Qt</translation>
+        <source>OC-Qt</source>
+        <translation>OC-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Onecoin after logging in to the system.</source>
-        <translation>Automatisch starten van Onecoin na inloggen van het systeem.</translation>
+        <source>Automatically start OC after logging in to the system.</source>
+        <translation>Automatisch starten van OC na inloggen van het systeem.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Onecoin on system login</source>
-        <translation>&amp;Start Onecoin bij systeem aanmelding</translation>
+        <source>&amp;Start OC on system login</source>
+        <translation>&amp;Start OC bij systeem aanmelding</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Onecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>De Onecoin client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
+        <source>Automatically open the OC client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>De OC client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1194,7 +1194,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Onecoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the OC network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1239,8 +1239,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Onecoin.</source>
-        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na Onecoin opnieuw op te starten.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting OC.</source>
+        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na OC opnieuw op te starten.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1306,8 +1306,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Onecoin.</source>
-        <translation>Deze instelling word toegepast na een restart van Onecoin.</translation>
+        <source>This setting will take effect after restarting OC.</source>
+        <translation>Deze instelling word toegepast na een restart van OC.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1325,8 +1325,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Onecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het Onecoin netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the OC network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het OC netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1399,7 +1399,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start onecoin: click-to-pay handler</source>
+        <source>Cannot start oc: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1567,8 +1567,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Onecoin-Qt help message to get a list with possible Onecoin command-line options.</source>
-        <translation>Laat het Onecoin-QT help bericht zien om een lijst te krijgen met mogelijke Onecoin command-regel opties.</translation>
+        <source>Show the OC-Qt help message to get a list with possible OC command-line options.</source>
+        <translation>Laat het OC-QT help bericht zien om een lijst te krijgen met mogelijke OC command-regel opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1587,13 +1587,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Onecoin - Debug window</source>
-        <translation>Onecoin - Debugscherm</translation>
+        <source>OC - Debug window</source>
+        <translation>OC - Debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Onecoin Core</source>
-        <translation>Onecoin Kern</translation>
+        <source>OC Core</source>
+        <translation>OC Kern</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1602,8 +1602,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Onecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het Onecoin debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
+        <source>Open the OC debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het OC debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1612,8 +1612,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Onecoin RPC console.</source>
-        <translation>Welkom bij de Onecoin RPC console.</translation>
+        <source>Welcome to the OC RPC console.</source>
+        <translation>Welkom bij de OC RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1793,8 +1793,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Onecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een Onecoin adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Voeg een OC adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1893,8 +1893,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Onecoin address</source>
-        <translation>WAARSCHUWING: Ongeldig Onecoin adres</translation>
+        <source>WARNING: Invalid OC address</source>
+        <translation>WAARSCHUWING: Ongeldig OC adres</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1967,8 +1967,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Onecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een Onecoin adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Voeg een OC adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2028,8 +2028,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Onecoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een Onecoin adres bezit.</translation>
+        <source>Sign the message to prove you own this OC address</source>
+        <translation>Teken een bericht om te bewijzen dat je een OC adres bezit.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2060,8 +2060,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Onecoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Onecoin adres</translation>
+        <source>Verify the message to ensure it was signed with the specified OC address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek OC adres</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2071,8 +2071,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Onecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een Onecoin adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Voeg een OC adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2081,8 +2081,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Onecoin signature</source>
-        <translation>Voer Onecoin handtekening in</translation>
+        <source>Enter OC signature</source>
+        <translation>Voer OC handtekening in</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2660,8 +2660,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>Onecoin version</source>
-        <translation>Onecoin versie</translation>
+        <source>OC version</source>
+        <translation>OC versie</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2670,8 +2670,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or onecoind</source>
-        <translation>Verstuur commando naar -server of onecoind</translation>
+        <source>Send command to -server or ocd</source>
+        <translation>Verstuur commando naar -server of ocd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2690,13 +2690,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: onecoin.conf)</source>
-        <translation>Selecteer configuratie bestand (standaard: onecoin.conf)</translation>
+        <source>Specify configuration file (default: oc.conf)</source>
+        <translation>Selecteer configuratie bestand (standaard: oc.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: onecoind.pid)</source>
-        <translation>Selecteer pid bestand (standaard: onecoin.conf)</translation>
+        <source>Specify pid file (default: ocd.pid)</source>
+        <translation>Selecteer pid bestand (standaard: oc.conf)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2713,13 +2713,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=onecoinrpc
+rpcuser=ocrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;OC Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2825,8 +2825,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Onecoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is Onecoin zal niet goed werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong OC will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is OC zal niet goed werken.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3120,7 +3120,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Onecoin is shutting down.</source>
+        <source>Initialization sanity check failed. OC is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3175,13 +3175,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Onecoin</source>
-        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van Onecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of OC</source>
+        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van OC</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Onecoin to complete</source>
-        <translation>Portemonnee moet herschreven worden: herstart Onecoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart OC to complete</source>
+        <translation>Portemonnee moet herschreven worden: herstart OC om te voltooien</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3240,8 +3240,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. Onecoin is probably already running.</source>
-        <translation>Niet mogelijk om %s op deze computer. Onecoin is waarschijnlijk al geopened.</translation>
+        <source>Unable to bind to %s on this computer. OC is probably already running.</source>
+        <translation>Niet mogelijk om %s op deze computer. OC is waarschijnlijk al geopened.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3275,7 +3275,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Onecoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. OC is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

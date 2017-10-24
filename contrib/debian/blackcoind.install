@@ -1,2 +1,2 @@
-debian/bin/onecoind usr/bin
-src/onecoind usr/lib/onecoin
+debian/bin/ocd usr/bin
+src/ocd usr/lib/oc

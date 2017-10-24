@@ -918,7 +918,7 @@ static std::string FormatException(std::exception* pex, const char* pszThread)
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "onecoin";
+    const char* pszModule = "oc";
 #endif
     if (pex)
         return strprintf(
@@ -948,13 +948,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Onecoin
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Onecoin
-    // Mac: ~/Library/Application Support/Onecoin
-    // Unix: ~/.onecoin
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\OC
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\OC
+    // Mac: ~/Library/Application Support/OC
+    // Unix: ~/.oc
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "Onecoin";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "OC";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -966,10 +966,10 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "Onecoin";
+    return pathRet / "OC";
 #else
     // Unix
-    return pathRet / ".onecoin";
+    return pathRet / ".oc";
 #endif
 #endif
 }
@@ -1018,7 +1018,7 @@ void ClearDatadirCache()
 
 boost::filesystem::path GetConfigFile()
 {
-    boost::filesystem::path pathConfigFile(GetArg("-conf", "onecoin.conf"));
+    boost::filesystem::path pathConfigFile(GetArg("-conf", "oc.conf"));
     if (!pathConfigFile.is_complete()) pathConfigFile = GetDataDir(false) / pathConfigFile;
     return pathConfigFile;
 }
@@ -1051,7 +1051,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 
 boost::filesystem::path GetPidFile()
 {
-    boost::filesystem::path pathPidFile(GetArg("-pid", "onecoind.pid"));
+    boost::filesystem::path pathPidFile(GetArg("-pid", "ocd.pid"));
     if (!pathPidFile.is_complete()) pathPidFile = GetDataDir() / pathPidFile;
     return pathPidFile;
 }

@@ -4,13 +4,13 @@ set -e
 
 umask 077
 
-basedir=~/.onecoin
+basedir=~/.oc
 dbfile="$basedir/DB_CONFIG"
-cfgfile="$basedir/onecoin.conf"
+cfgfile="$basedir/oc.conf"
 
 [ -e "$basedir" ] || mkdir "$basedir"
 
 # Blackcoin does not clean up DB log files by default
 [ -e "$dbfile" ] || echo 'set_flags DB_LOG_AUTOREMOVE' > "$dbfile"
 
-exec /usr/lib/onecoin/onecoin-qt "$@"
+exec /usr/lib/oc/oc-qt "$@"

@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Onecoin</source>
-        <translation>Despre Onecoin</translation>
+        <source>About OC</source>
+        <translation>Despre OC</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Onecoin&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;Onecoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;OC&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;OC&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Onecoin developers</source>
+Copyright © 2014 The OC developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Onecoin developers</translation>
+Copyright © 2014 The OC developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Onecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele Onecoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your OC addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele OC pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Onecoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Onecoin</translation>
+        <source>Sign a message to prove you own a OC address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă OC</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Onecoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Onecoin</translation>
+        <source>Verify a message to ensure it was signed with a specified OC address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă OC</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Onecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Onecoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>OC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>OC se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Onecoin</source>
-        <translation>Arată informații despre Onecoin</translation>
+        <source>Show information about OC</source>
+        <translation>Arată informații despre OC</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Onecoin address</source>
-        <translation>Trimite monede către o adresă Onecoin</translation>
+        <source>Send coins to a OC address</source>
+        <translation>Trimite monede către o adresă OC</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Onecoin</source>
-        <translation>Modifică opțiuni de configurare pentru Onecoin</translation>
+        <source>Modify configuration options for OC</source>
+        <translation>Modifică opțiuni de configurare pentru OC</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Onecoin</source>
-        <translation>Onecoin</translation>
+        <source>OC</source>
+        <translation>OC</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Onecoin</source>
-        <translation>Despre Onecoin</translation>
+        <source>&amp;About OC</source>
+        <translation>Despre OC</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Onecoin client</source>
-        <translation>Clientul Onecoin</translation>
+        <source>OC client</source>
+        <translation>Clientul OC</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Onecoin network</source>
-        <translation><numerusform>%n conexiune activă la reteaua Onecoin</numerusform><numerusform>%n conexiuni active la reteaua Onecoin</numerusform><numerusform>%n conexiuni active la reteaua Onecoin</numerusform></translation>
+        <source>%n active connection(s) to OC network</source>
+        <translation><numerusform>%n conexiune activă la reteaua OC</numerusform><numerusform>%n conexiuni active la reteaua OC</numerusform><numerusform>%n conexiuni active la reteaua OC</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Onecoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Onecoin invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid OC address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa OC invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Onecoin can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. Onecoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. OC can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. OC nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Onecoin address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Onecoin validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid OC address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă OC validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Onecoin-Qt</source>
-        <translation>Onecoin-Qt</translation>
+        <source>OC-Qt</source>
+        <translation>OC-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Onecoin after logging in to the system.</source>
-        <translation>Pornește Onecoin imdiat după logarea în sistem</translation>
+        <source>Automatically start OC after logging in to the system.</source>
+        <translation>Pornește OC imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Onecoin on system login</source>
-        <translation>$Pornește Onecoin la logarea în sistem</translation>
+        <source>&amp;Start OC on system login</source>
+        <translation>$Pornește OC la logarea în sistem</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Onecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul Onecoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the OC client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul OC pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1194,7 +1194,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Onecoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the OC network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1239,8 +1239,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Onecoin.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Onecoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting OC.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea OC.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1306,8 +1306,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Onecoin.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea Onecoin.</translation>
+        <source>This setting will take effect after restarting OC.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea OC.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1325,8 +1325,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Onecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Onecoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the OC network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua OC după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1399,7 +1399,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start onecoin: click-to-pay handler</source>
+        <source>Cannot start oc: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1567,8 +1567,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Onecoin-Qt help message to get a list with possible Onecoin command-line options.</source>
-        <translation>Afișa mesajul de ajutor Onecoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Onecoin.</translation>
+        <source>Show the OC-Qt help message to get a list with possible OC command-line options.</source>
+        <translation>Afișa mesajul de ajutor OC-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă OC.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1587,13 +1587,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Onecoin - Debug window</source>
-        <translation>Onecoin - fereastră depanare</translation>
+        <source>OC - Debug window</source>
+        <translation>OC - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Onecoin Core</source>
-        <translation>Onecoin Core</translation>
+        <source>OC Core</source>
+        <translation>OC Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1602,8 +1602,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Onecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare Onecoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the OC debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare OC din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1612,8 +1612,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Onecoin RPC console.</source>
-        <translation>Bine ati venit la consola Onecoin RPC.</translation>
+        <source>Welcome to the OC RPC console.</source>
+        <translation>Bine ati venit la consola OC RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1793,8 +1793,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Onecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă Onecoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă OC(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1893,8 +1893,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Onecoin address</source>
-        <translation>Atenție: Adresă Onecoin invalidă</translation>
+        <source>WARNING: Invalid OC address</source>
+        <translation>Atenție: Adresă OC invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1967,8 +1967,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Onecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă Onecoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă OC(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2028,8 +2028,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Onecoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Onecoin</translation>
+        <source>Sign the message to prove you own this OC address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă OC</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2060,8 +2060,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Onecoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Onecoin</translation>
+        <source>Verify the message to ensure it was signed with the specified OC address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă OC</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2071,8 +2071,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Onecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă Onecoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă OC(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2081,8 +2081,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Onecoin signature</source>
-        <translation>Introduceti semnatura Onecoin</translation>
+        <source>Enter OC signature</source>
+        <translation>Introduceti semnatura OC</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2660,8 +2660,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>Onecoin version</source>
-        <translation>Versiune Onecoin</translation>
+        <source>OC version</source>
+        <translation>Versiune OC</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2670,8 +2670,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or onecoind</source>
-        <translation>Trimite comanda catre server sau onecoind</translation>
+        <source>Send command to -server or ocd</source>
+        <translation>Trimite comanda catre server sau ocd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2690,13 +2690,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: onecoin.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: onecoin.conf)</translation>
+        <source>Specify configuration file (default: oc.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: oc.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: onecoind.pid)</source>
-        <translation>Speficica fisier pid(implicit: onecoin.pid)</translation>
+        <source>Specify pid file (default: ocd.pid)</source>
+        <translation>Speficica fisier pid(implicit: oc.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2713,13 +2713,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=onecoinrpc
+rpcuser=ocrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;OC Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2825,8 +2825,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Onecoin will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Onecoin nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong OC will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit OC nu va functiona corect.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3120,7 +3120,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Onecoin is shutting down.</source>
+        <source>Initialization sanity check failed. OC is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3175,13 +3175,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Onecoin</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Onecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of OC</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de OC</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Onecoin to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați Onecoin pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart OC to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați OC pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3240,8 +3240,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. Onecoin is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Onecoin ruleaza</translation>
+        <source>Unable to bind to %s on this computer. OC is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil OC ruleaza</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3275,7 +3275,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Onecoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. OC is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

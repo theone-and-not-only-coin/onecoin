@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Onecoin</source>
-        <translation>Vad du behöver veta om Onecoin</translation>
+        <source>About OC</source>
+        <translation>Vad du behöver veta om OC</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Onecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Onecoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;OC&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;OC&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Onecoin developers</source>
+Copyright © 2014 The OC developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Onecoin developers</translation>
+Copyright © 2014 The OC developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Onecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina Onecoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your OC addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina OC adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Onecoin address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger Onecoin adressen</translation>
+        <source>Sign a message to prove you own a OC address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger OC adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Onecoin address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik Onecoin adress</translation>
+        <source>Verify a message to ensure it was signed with a specified OC address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik OC adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Onecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Onecoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
+        <source>OC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>OC plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Onecoin</source>
-        <translation>Visa information om Onecoin</translation>
+        <source>Show information about OC</source>
+        <translation>Visa information om OC</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Onecoin address</source>
-        <translation>Skicka coins till en Onecoin adress</translation>
+        <source>Send coins to a OC address</source>
+        <translation>Skicka coins till en OC adress</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Onecoin</source>
-        <translation>Modifiera konfigurations-alternativ för Onecoin</translation>
+        <source>Modify configuration options for OC</source>
+        <translation>Modifiera konfigurations-alternativ för OC</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Onecoin</source>
-        <translation>Onecoin</translation>
+        <source>OC</source>
+        <translation>OC</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Onecoin</source>
-        <translation>&amp;Om Onecoin</translation>
+        <source>&amp;About OC</source>
+        <translation>&amp;Om OC</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Onecoin client</source>
-        <translation>Onecoin klient</translation>
+        <source>OC client</source>
+        <translation>OC klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Onecoin network</source>
-        <translation><numerusform>%n aktiv anslutning till Onecoin nätverket</numerusform><numerusform>%n aktiva anslutning till Onecoin nätverket</numerusform></translation>
+        <source>%n active connection(s) to OC network</source>
+        <translation><numerusform>%n aktiv anslutning till OC nätverket</numerusform><numerusform>%n aktiva anslutning till OC nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Onecoin address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig Onecoin adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid OC address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig OC adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Onecoin can no longer continue safely and will quit.</source>
-        <translation>Ett fatalt fel uppstod. Onecoin kan inte fortsätta och stänger programmet.</translation>
+        <source>A fatal error occurred. OC can no longer continue safely and will quit.</source>
+        <translation>Ett fatalt fel uppstod. OC kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
 <context>
@@ -1018,7 +1018,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Namnet som kopplats till denna Onecoin-adress</translation>
+        <translation>Namnet som kopplats till denna OC-adress</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1057,8 +1057,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Onecoin address.</source>
-        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig Onecoin adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid OC address.</source>
+        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig OC adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Onecoin-Qt</source>
-        <translation>Onecoin-Qt</translation>
+        <source>OC-Qt</source>
+        <translation>OC-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Onecoin after logging in to the system.</source>
-        <translation>Starta Onecoin automatiskt vid inloggning.</translation>
+        <source>Automatically start OC after logging in to the system.</source>
+        <translation>Starta OC automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Onecoin on system login</source>
-        <translation>&amp;Starta Onecoin vid inloggning</translation>
+        <source>&amp;Start OC on system login</source>
+        <translation>&amp;Starta OC vid inloggning</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Onecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Onecoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the OC client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt OC klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1194,7 +1194,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Onecoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the OC network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1239,8 +1239,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Onecoin.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av Onecoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting OC.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av OC.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1306,8 +1306,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Onecoin.</source>
-        <translation>Inställningen börjar gälla efter omstart av Onecoin.</translation>
+        <source>This setting will take effect after restarting OC.</source>
+        <translation>Inställningen börjar gälla efter omstart av OC.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1325,8 +1325,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Onecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med Onecoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the OC network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med OC nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1399,7 +1399,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start onecoin: click-to-pay handler</source>
+        <source>Cannot start oc: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1567,8 +1567,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Onecoin-Qt help message to get a list with possible Onecoin command-line options.</source>
-        <translation>Visa Onecoin-Qt hjälp meddelandet för att få en lista över möjliga Onecoin kommandoradsalternativ.</translation>
+        <source>Show the OC-Qt help message to get a list with possible OC command-line options.</source>
+        <translation>Visa OC-Qt hjälp meddelandet för att få en lista över möjliga OC kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1587,13 +1587,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Onecoin - Debug window</source>
-        <translation>Onecoin - Felsökningsfönster</translation>
+        <source>OC - Debug window</source>
+        <translation>OC - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Onecoin Core</source>
-        <translation>Onecoin Core</translation>
+        <source>OC Core</source>
+        <translation>OC Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1602,8 +1602,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Onecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna Onecoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the OC debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna OC felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1612,8 +1612,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Onecoin RPC console.</source>
-        <translation>Välkommen till Onecoin RPC konsoll.</translation>
+        <source>Welcome to the OC RPC console.</source>
+        <translation>Välkommen till OC RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1793,8 +1793,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Onecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en Onecoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en OC adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1893,8 +1893,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Onecoin address</source>
-        <translation>VARNING: Ogiltig Onecoin adress</translation>
+        <source>WARNING: Invalid OC address</source>
+        <translation>VARNING: Ogiltig OC adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1967,8 +1967,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Onecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en Onecoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en OC adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2028,8 +2028,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Onecoin address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna Onecoin adressen</translation>
+        <source>Sign the message to prove you own this OC address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna OC adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2060,8 +2060,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Onecoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna Onecoin adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified OC address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna OC adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2071,8 +2071,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Onecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en Onecoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en OC adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2081,8 +2081,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Onecoin signature</source>
-        <translation>Fyll i Onecoin signatur</translation>
+        <source>Enter OC signature</source>
+        <translation>Fyll i OC signatur</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2660,8 +2660,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>Onecoin version</source>
-        <translation>Onecoin version</translation>
+        <source>OC version</source>
+        <translation>OC version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2670,8 +2670,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or onecoind</source>
-        <translation>Skicka kommando till -server eller onecoind</translation>
+        <source>Send command to -server or ocd</source>
+        <translation>Skicka kommando till -server eller ocd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2690,13 +2690,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: onecoin.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: onecoin.conf)</translation>
+        <source>Specify configuration file (default: oc.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: oc.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: onecoind.pid)</source>
-        <translation>Ange pid filen (standard onecoind.pid)</translation>
+        <source>Specify pid file (default: ocd.pid)</source>
+        <translation>Ange pid filen (standard ocd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2713,13 +2713,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=onecoinrpc
+rpcuser=ocrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;OC Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2825,8 +2825,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Onecoin will not work properly.</source>
-        <translation>Varning: Kolla att din dators tid och datum är rätt. Onecoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong OC will not work properly.</source>
+        <translation>Varning: Kolla att din dators tid och datum är rätt. OC kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3120,7 +3120,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Onecoin is shutting down.</source>
+        <source>Initialization sanity check failed. OC is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3175,13 +3175,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Onecoin</source>
-        <translation>Kunde inte ladda wallet.dat: En nyare version av Onecoin krävs</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of OC</source>
+        <translation>Kunde inte ladda wallet.dat: En nyare version av OC krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Onecoin to complete</source>
-        <translation>Plånboken måste skrivas om: Starta om Onecoin för att slutföra</translation>
+        <source>Wallet needed to be rewritten: restart OC to complete</source>
+        <translation>Plånboken måste skrivas om: Starta om OC för att slutföra</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3240,8 +3240,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. Onecoin is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. Onecoin är sannolikt redan startad.</translation>
+        <source>Unable to bind to %s on this computer. OC is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. OC är sannolikt redan startad.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3275,7 +3275,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Onecoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Onecoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. OC is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

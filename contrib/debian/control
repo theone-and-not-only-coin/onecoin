@@ -1,4 +1,4 @@
-Source: onecoin
+Source: oc
 Section: utils
 Priority: optional
 Maintainer: Jonas Smedegaard <dr@jones.dk>
@@ -19,11 +19,11 @@ Build-Depends: debhelper,
  libqt4-dev,
  libqrencode-dev
 Standards-Version: 3.9.2
-Homepage: http://www.onecoin.co/
-Vcs-Git: git://github.com/rat4/onecoin.git
-Vcs-Browser: http://github.com/rat4/onecoin
+Homepage: http://www.oc.co/
+Vcs-Git: git://github.com/rat4/oc.git
+Vcs-Browser: http://github.com/rat4/oc
 
-Package: onecoind
+Package: ocd
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: peer-to-peer network based digital currency - daemon
@@ -38,10 +38,10 @@ Description: peer-to-peer network based digital currency - daemon
  Full transaction history is stored locally at each client.  This
  requires 2+ GB of space, slowly growing.
  .
- This package provides onecoind, a combined daemon and CLI tool to
+ This package provides ocd, a combined daemon and CLI tool to
  interact with the daemon.
 
-Package: onecoin-qt
+Package: oc-qt
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: peer-to-peer network based digital currency - Qt GUI
@@ -56,4 +56,4 @@ Description: peer-to-peer network based digital currency - Qt GUI
  Full transaction history is stored locally at each client.  This
  requires 2+ GB of space, slowly growing.
  .
- This package provides Onecoin-Qt, a GUI for Onecoin based on Qt.
+ This package provides OC-Qt, a GUI for OC based on Qt.

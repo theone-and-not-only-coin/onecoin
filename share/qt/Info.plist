@@ -7,23 +7,23 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
-	<string>Onecoin-Qt</string>
+	<string>OC-Qt</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>Onecoin-Qt</string>
+	<string>OC-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>co.onecoin.Onecoin-Qt</string>
+	<string>co.oc.OC-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>co.onecoin.OnecoinPayment</string>
+            <string>co.oc.OCPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>onecoin</string>
+              <string>oc</string>
             </array>
           </dict>
         </array>

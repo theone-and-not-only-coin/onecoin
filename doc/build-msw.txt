@@ -7,7 +7,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP
 software written by Thomas Bernard.
 
 
-See readme-qt.rst for instructions on building Onecoin QT, the
+See readme-qt.rst for instructions on building OC QT, the
 graphical user interface.
 
 WINDOWS BUILD NOTES
@@ -76,9 +76,9 @@ make -f Makefile.mingw
 mkdir miniupnpc
 cp *.h miniupnpc/
 
-Onecoin
+OC
 -------
 DOS prompt:
-cd \onecoin\src
+cd \oc\src
 mingw32-make -f makefile.mingw
-strip onecoind.exe
+strip ocd.exe

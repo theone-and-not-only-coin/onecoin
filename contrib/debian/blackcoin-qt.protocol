@@ -1,6 +1,6 @@
 [Protocol]
-exec=onecoin-qt '%u'
-protocol=onecoin
+exec=oc-qt '%u'
+protocol=oc
 input=none
 output=none
 helper=true

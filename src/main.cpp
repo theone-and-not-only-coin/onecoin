@@ -21,7 +21,7 @@ using namespace std;
 using namespace boost;
 
 #if defined(NDEBUG)
-# error "Onecoin cannot be compiled without assertions."
+# error "OC cannot be compiled without assertions."
 #endif
 
 //
@@ -75,7 +75,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Onecoin Signed Message:\n";
+const string strMessageMagic = "OC Signed Message:\n";
 
 //////////////////////////////////////////////////////////////////////////////
 //
@@ -2629,7 +2629,7 @@ struct CImportingNow
 
 void ThreadImport(std::vector<boost::filesystem::path> vImportFiles)
 {
-    RenameThread("onecoin-loadblk");
+    RenameThread("oc-loadblk");
 
     CImportingNow imp;
 
