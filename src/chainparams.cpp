@@ -84,10 +84,15 @@ public:
         assert(genesis.hashMerkleRoot == uint256("0x77ddb788074e852f05e6df55d8cbe2fdfa943905b6b83e47e4b8698ba7300b27"));
 
         // Add seednodes below //
-        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "seednode1.yourdomain.com"));
-        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "seednode2.yourdomain.com"));
-        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "seednode3.yourdomain.com"));
-        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "seednode4.yourdomain.com"));
+        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp1.seednode.org"));
+        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp2.seednode.org"));
+        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp3.seednode.org"));
+        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp4.seednode.org"));
+        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp5.seednode.org"));
+        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp6.seednode.org"));
+        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp7.seednode.org"));
+        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp8.seednode.org"));
+        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp9.seednode.org"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,0);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,5);
