@@ -1,5 +1,5 @@
 TEMPLATE = app
-TARGET = oc-qt
+TARGET = ocp-qt
 VERSION = 1.0.0
 INCLUDEPATH += src src/json src/qt
 QT += network
