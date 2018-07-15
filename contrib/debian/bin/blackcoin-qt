@@ -4,13 +4,13 @@ set -e
 
 umask 077
 
-basedir=~/.oc
+basedir=~/.ocp
 dbfile="$basedir/DB_CONFIG"
-cfgfile="$basedir/oc.conf"
+cfgfile="$basedir/ocp.conf"
 
 [ -e "$basedir" ] || mkdir "$basedir"
 
 # Blackcoin does not clean up DB log files by default
 [ -e "$dbfile" ] || echo 'set_flags DB_LOG_AUTOREMOVE' > "$dbfile"
 
-exec /usr/lib/oc/oc-qt "$@"
+exec /usr/lib/ocp/ocp-qt "$@"
