@@ -1,12 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=OC
-Comment=OC P2P Cryptocurrency
-Comment[fr]=OC, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=OC, eşten eşe kriptografik sanal para birimi
-Exec=/usr/bin/oc-qt
+Name=OCP
+Comment=OCP P2P Cryptocurrency
+Comment[fr]=OCP, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=OCP, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/ocp-qt
 Terminal=false
 Type=Application
 Icon=/usr/share/pixmaps/bitcoin80.xpm
-MimeType=x-scheme-handler/oc;
+MimeType=x-scheme-handler/ocp;
 Categories=Office;
