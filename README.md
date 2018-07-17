@@ -26,3 +26,18 @@ Proof of Work:
 
 Proof of Stake:
 - NO REWARD, ONLY TRANSACTION FEES
+
+OCP on web and social:
+
+- Facebook: https://www.facebook.com/OCP.OpenSourceCryptocurrency.OC/
+
+- Telegram: https://t.me/occointelegram
+
+- Website: https://occnetwork.co/
+
+- Market: https://www.coinexchange.io/market/OC/BTC
+
+- Twitter: https://twitter.com/OC_Crypto
+
+
+
