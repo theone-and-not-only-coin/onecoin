@@ -39,5 +39,7 @@ OCP on web and social:
 
 - Twitter: https://twitter.com/OC_Crypto
 
+- Blockexplorer: https://chainz.cryptoid.info/oc/
+
 
 
