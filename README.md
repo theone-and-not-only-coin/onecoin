@@ -41,5 +41,9 @@ OCP on web and social:
 
 - Blockexplorer: https://chainz.cryptoid.info/oc/
 
+- Medium: https://medium.com/@OCProtocol
+
+- Discord: https://discord.gg/pZ3mxRZ
+
 
 
