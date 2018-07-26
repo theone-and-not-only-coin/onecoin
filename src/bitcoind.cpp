@@ -52,10 +52,10 @@ bool AppInit(int argc, char* argv[])
             // First part of help message is specific to bitcoind / RPC client
             std::string strUsage = _("OC version") + " " + FormatFullVersion() + "\n\n" +
                 _("Usage:") + "\n" +
-                  "  ocd [options]                     " + "\n" +
-                  "  ocd [options] <command> [params]  " + _("Send command to -server or ocd") + "\n" +
-                  "  ocd [options] help                " + _("List commands") + "\n" +
-                  "  ocd [options] help <command>      " + _("Get help for a command") + "\n";
+                  "  ocpd [options]                     " + "\n" +
+                  "  ocpd [options] <command> [params]  " + _("Send command to -server or ocpd") + "\n" +
+                  "  ocpd [options] help                " + _("List commands") + "\n" +
+                  "  ocpd [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessage();
 

@@ -25,7 +25,7 @@ USE_WALLET:=1
 LIBS= -dead_strip
 
 ifdef STATIC
-# Build STATIC if you are redistributing the ocd binary
+# Build STATIC if you are redistributing the ocpd binary
 LIBS += \
  $(DEPSDIR)/lib/db48/libdb_cxx-4.8.a \
  $(DEPSDIR)/lib/libboost_system-mt.a \
@@ -121,7 +121,7 @@ else
 endif
 endif
 
-all: ocd
+all: ocpd
 
 LIBS += $(CURDIR)/leveldb/libleveldb.a $(CURDIR)/leveldb/libmemenv.a
 DEFS += $(addprefix -I,$(CURDIR)/leveldb/include)
@@ -152,11 +152,11 @@ obj/scrypt-x86.o: scrypt-x86.S
 obj/scrypt-x86_64.o: scrypt-x86_64.S
 	$(CXX) -c $(xCXXFLAGS) -MMD -o $@ $<
 
-ocd: $(OBJS:obj/%=obj/%)
+ocpd: $(OBJS:obj/%=obj/%)
 	$(CXX) $(CFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 clean:
-	-rm -f ocd
+	-rm -f ocpd
 	-rm -f obj/*.o
 	-rm -f obj/*.P
 	-rm -f obj/build.h

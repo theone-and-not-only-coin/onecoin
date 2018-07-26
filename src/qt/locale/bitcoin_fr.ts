@@ -3,7 +3,7 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About OC</source>
+        <source>About OCP</source>
         <translation>Au sujet de OC</translation>
     </message>
     <message>
@@ -15,7 +15,7 @@
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The OC developers</source>
+Copyright © 2014 The OCP developers</source>
         <translation>Copyright © 2009-2014 Les développeurs Bitcoin
 Copyright © 2012-2014 Les développeurs NovaCoin
 Copyright © 2014 Les développeurs OC</translation>
@@ -60,7 +60,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your OC addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your OCP addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Ce sont vos adresses pour recevoir vos paiements. Vous pouvez utiliser une adresse différente pour chaque réception afin d&apos;identifier facilement le payeur.</translation>
     </message>
     <message>
@@ -75,7 +75,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a OC address</source>
+        <source>Sign a message to prove you own a OCP address</source>
         <translation>Signer un message afin de valider l&apos;identité de votre adresse OC</translation>
     </message>
     <message>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified OC address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse OC spécifique.</translation>
+        <source>Verify a message to ensure it was signed with a specified OCP address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse OCP spécifique.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>OC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>L&apos;application OC va désormais se terminer afin de finaliser le processus de chiffrage. Merci de noter que le chiffrage du portefeuille ne garantit pas de se prémunir du vol via utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
+        <source>OCP will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>L&apos;application OCP va désormais se terminer afin de finaliser le processus de chiffrage. Merci de noter que le chiffrage du portefeuille ne garantit pas de se prémunir du vol via utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
     </message>
     <message>
         <location line="+13"/>
@@ -392,7 +392,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a OC address</source>
+        <source>Send coins to a OCP address</source>
         <translation>Envoyer des monnaies vers une adresse OC</translation>
     </message>
     <message>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>OC</source>
-        <translation>OC</translation>
+        <source>OCP</source>
+        <translation>OCP</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,7 +448,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About OC</source>
+        <source>&amp;About OCP</source>
         <translation>&amp;Au sujet de OC</translation>
     </message>
     <message>
@@ -500,12 +500,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>OC client</source>
+        <source>OCP client</source>
         <translation>Client OC</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to OC network</source>
+        <source>%n active connection(s) to OCP network</source>
         <translation><numerusform>%n connexion active au réseau OC</numerusform><numerusform>%n connexions actives au réseau OC</numerusform></translation>
     </message>
     <message>
@@ -600,8 +600,8 @@ Adresse : %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid OC address or malformed URI parameters.</source>
-        <translation>L&apos;adresse du portefeuille OC n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid OCP address or malformed URI parameters.</source>
+        <translation>L&apos;adresse du portefeuille OCP n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. OC can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale a été rencontrée. L&apos;application OC ne peut plus être s&apos;exécuter de façon correcte et va se terminer.</translation>
+        <source>A fatal error occurred. OCP can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale a été rencontrée. L&apos;application OCP ne peut plus être s&apos;exécuter de façon correcte et va se terminer.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid OC address.</source>
-        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse OC valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid OCP address.</source>
+        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse OCP valide.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>OC-Qt</source>
-        <translation>OC-Qt</translation>
+        <source>OCP-Qt</source>
+        <translation>OCP-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start OC after logging in to the system.</source>
-        <translation>Démarrage automatique du client OC lors de la connexion au système</translation>
+        <source>Automatically start OCP after logging in to the system.</source>
+        <translation>Démarrage automatique du client OCP lors de la connexion au système</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start OC on system login</source>
-        <translation>&amp;Démarrage du client OC à la connexion au système</translation>
+        <source>&amp;Start OCP on system login</source>
+        <translation>&amp;Démarrage du client OCP à la connexion au système</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the OC client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir automatiquemwnr le port client de OC sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
+        <source>Automatically open the OCP client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir automatiquemwnr le port client de OCP sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1194,7 +1194,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the OC network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the OCP network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1325,8 +1325,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the OC network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau OC mais ce processus n&apos;est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the OCP network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau OCP mais ce processus n&apos;est pas encore terminé.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1567,8 +1567,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the OC-Qt help message to get a list with possible OC command-line options.</source>
-        <translation>Afficher le message d&apos;aide OC-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande OC</translation>
+        <source>Show the OCP-Qt help message to get a list with possible OCP command-line options.</source>
+        <translation>Afficher le message d&apos;aide OCP-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande OC</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1587,13 +1587,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-104"/>
-        <source>OC - Debug window</source>
-        <translation>OC - Fenêtre de déboggage</translation>
+        <source>OCP - Debug window</source>
+        <translation>OCP - Fenêtre de déboggage</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>OC Core</source>
-        <translation>OC Core</translation>
+        <source>OCP Core</source>
+        <translation>OCP Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1602,8 +1602,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the OC debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ouvrir le fichier journal de debug OC au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
+        <source>Open the OCP debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ouvrir le fichier journal de debug OCP au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1612,7 +1612,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the OC RPC console.</source>
+        <source>Welcome to the OCP RPC console.</source>
         <translation>Bienvenue sur la console RPC de OC.</translation>
     </message>
     <message>
@@ -1793,8 +1793,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse OC (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OCP address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse OCP (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1893,8 +1893,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid OC address</source>
-        <translation>AVERTISSEMENT: Adresse OC Invalide</translation>
+        <source>WARNING: Invalid OCP address</source>
+        <translation>AVERTISSEMENT: Adresse OCP Invalide</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1904,7 +1904,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>AVERTISSEMENT: Adresse OC Invalide</translation>
+        <translation>AVERTISSEMENT: Adresse OCP Invalide</translation>
     </message>
 </context>
 <context>
@@ -1967,8 +1967,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse OC (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OCP address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse OCP (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1992,7 +1992,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse OC (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <translation>Entrer une adresse OCP (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2028,7 +2028,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this OC address</source>
+        <source>Sign the message to prove you own this OCP address</source>
         <translation>Signer le message afin de prouver l&apos;identité de votre adresse OC</translation>
     </message>
     <message>
@@ -2060,8 +2060,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified OC address</source>
-        <translation>Vérifiez le message afin de vous assurer qu&apos;il provient de l&apos;adresse OC spécifiée.</translation>
+        <source>Verify the message to ensure it was signed with the specified OCP address</source>
+        <translation>Vérifiez le message afin de vous assurer qu&apos;il provient de l&apos;adresse OCP spécifiée.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2071,8 +2071,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse OC (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OCP address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse OCP (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2081,7 +2081,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter OC signature</source>
+        <source>Enter OCP signature</source>
         <translation>Entrer une signature OC</translation>
     </message>
     <message>
@@ -2660,7 +2660,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>OC version</source>
+        <source>OCP version</source>
         <translation>Version OC</translation>
     </message>
     <message>
@@ -2670,8 +2670,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or ocd</source>
-        <translation>Envoyer commande à -server ou ocd</translation>
+        <source>Send command to -server or ocpd</source>
+        <translation>Envoyer commande à -server ou ocpd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2690,13 +2690,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: oc.conf)</source>
-        <translation>Spécifier le fichier de configuration (par défaut: oc.conf)</translation>
+        <source>Specify configuration file (default: ocp.conf)</source>
+        <translation>Spécifier le fichier de configuration (par défaut: ocp.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: ocd.pid)</source>
-        <translation>Spécifier le fichier pid (par défaut: ocd.pid)</translation>
+        <source>Specify pid file (default: ocpd.pid)</source>
+        <translation>Spécifier le fichier pid (par défaut: ocpd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2719,7 +2719,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;OC Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;OCP Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2825,8 +2825,8 @@ for example: alertnotify=echo %%s | mail -s &quot;OC Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong OC will not work properly.</source>
-        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. OC ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong OCP will not work properly.</source>
+        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. OCP ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3120,7 +3120,7 @@ for example: alertnotify=echo %%s | mail -s &quot;OC Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. OC is shutting down.</source>
+        <source>Initialization sanity check failed. OCP is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3180,7 +3180,7 @@ for example: alertnotify=echo %%s | mail -s &quot;OC Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart OC to complete</source>
+        <source>Wallet needed to be rewritten: restart OCP to complete</source>
         <translation>Le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application OC</translation>
     </message>
     <message>
@@ -3240,8 +3240,8 @@ for example: alertnotify=echo %%s | mail -s &quot;OC Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. OC is probably already running.</source>
-        <translation>Connexion au port %s impossible. L&apos;application OC est probablement déjà en cours d&apos;exécution</translation>
+        <source>Unable to bind to %s on this computer. OCP is probably already running.</source>
+        <translation>Connexion au port %s impossible. L&apos;application OCP est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3275,7 +3275,7 @@ for example: alertnotify=echo %%s | mail -s &quot;OC Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. OC is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. OCP is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

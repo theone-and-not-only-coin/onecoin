@@ -3,7 +3,7 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About OC</source>
+        <source>About OCP</source>
         <translation>Despre OC</translation>
     </message>
     <message>
@@ -15,10 +15,10 @@
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The OC developers</source>
+Copyright © 2014 The OCP developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The OC developers</translation>
+Copyright © 2014 The OCP developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your OC addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele OC pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your OCP addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele OCP pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,7 +75,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a OC address</source>
+        <source>Sign a message to prove you own a OCP address</source>
         <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă OC</translation>
     </message>
     <message>
@@ -90,7 +90,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified OC address</source>
+        <source>Verify a message to ensure it was signed with a specified OCP address</source>
         <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă OC</translation>
     </message>
     <message>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>OC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>OC se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>OCP will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>OCP se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -392,7 +392,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a OC address</source>
+        <source>Send coins to a OCP address</source>
         <translation>Trimite monede către o adresă OC</translation>
     </message>
     <message>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>OC</source>
-        <translation>OC</translation>
+        <source>OCP</source>
+        <translation>OCP</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,7 +448,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About OC</source>
+        <source>&amp;About OCP</source>
         <translation>Despre OC</translation>
     </message>
     <message>
@@ -500,12 +500,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>OC client</source>
+        <source>OCP client</source>
         <translation>Clientul OC</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to OC network</source>
+        <source>%n active connection(s) to OCP network</source>
         <translation><numerusform>%n conexiune activă la reteaua OC</numerusform><numerusform>%n conexiuni active la reteaua OC</numerusform><numerusform>%n conexiuni active la reteaua OC</numerusform></translation>
     </message>
     <message>
@@ -600,8 +600,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid OC address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa OC invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid OCP address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa OCP invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. OC can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. OC nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. OCP can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. OCP nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid OC address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă OC validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid OCP address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă OCP validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>OC-Qt</source>
-        <translation>OC-Qt</translation>
+        <source>OCP-Qt</source>
+        <translation>OCP-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start OC after logging in to the system.</source>
-        <translation>Pornește OC imdiat după logarea în sistem</translation>
+        <source>Automatically start OCP after logging in to the system.</source>
+        <translation>Pornește OCP imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start OC on system login</source>
-        <translation>$Pornește OC la logarea în sistem</translation>
+        <source>&amp;Start OCP on system login</source>
+        <translation>$Pornește OCP la logarea în sistem</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the OC client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul OC pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the OCP client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul OCP pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1194,7 +1194,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the OC network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the OCP network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1325,8 +1325,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the OC network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua OC după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the OCP network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua OCP după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1567,8 +1567,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the OC-Qt help message to get a list with possible OC command-line options.</source>
-        <translation>Afișa mesajul de ajutor OC-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă OC.</translation>
+        <source>Show the OCP-Qt help message to get a list with possible OCP command-line options.</source>
+        <translation>Afișa mesajul de ajutor OCP-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă OC.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1587,13 +1587,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>OC - Debug window</source>
-        <translation>OC - fereastră depanare</translation>
+        <source>OCP - Debug window</source>
+        <translation>OCP - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>OC Core</source>
-        <translation>OC Core</translation>
+        <source>OCP Core</source>
+        <translation>OCP Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1602,8 +1602,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the OC debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare OC din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the OCP debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare OCP din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1612,8 +1612,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the OC RPC console.</source>
-        <translation>Bine ati venit la consola OC RPC.</translation>
+        <source>Welcome to the OCP RPC console.</source>
+        <translation>Bine ati venit la consola OCP RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1793,7 +1793,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a OCP address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation>Introduceți o adresă OC(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
@@ -1893,8 +1893,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid OC address</source>
-        <translation>Atenție: Adresă OC invalidă</translation>
+        <source>WARNING: Invalid OCP address</source>
+        <translation>Atenție: Adresă OCP invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1967,7 +1967,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a OCP address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation>Introduceți o adresă OC(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
@@ -2028,7 +2028,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this OC address</source>
+        <source>Sign the message to prove you own this OCP address</source>
         <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă OC</translation>
     </message>
     <message>
@@ -2060,7 +2060,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified OC address</source>
+        <source>Verify the message to ensure it was signed with the specified OCP address</source>
         <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă OC</translation>
     </message>
     <message>
@@ -2071,7 +2071,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a OCP address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation>Introduceți o adresă OC(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
@@ -2081,7 +2081,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter OC signature</source>
+        <source>Enter OCP signature</source>
         <translation>Introduceti semnatura OC</translation>
     </message>
     <message>
@@ -2660,7 +2660,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>OC version</source>
+        <source>OCP version</source>
         <translation>Versiune OC</translation>
     </message>
     <message>
@@ -2670,8 +2670,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or ocd</source>
-        <translation>Trimite comanda catre server sau ocd</translation>
+        <source>Send command to -server or ocpd</source>
+        <translation>Trimite comanda catre server sau ocpd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2690,12 +2690,12 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: oc.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: oc.conf)</translation>
+        <source>Specify configuration file (default: ocp.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: ocp.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: ocd.pid)</source>
+        <source>Specify pid file (default: ocpd.pid)</source>
         <translation>Speficica fisier pid(implicit: oc.pid)</translation>
     </message>
     <message>
@@ -2719,7 +2719,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;OC Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;OCP Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2825,8 +2825,8 @@ for example: alertnotify=echo %%s | mail -s &quot;OC Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong OC will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit OC nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong OCP will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit OCP nu va functiona corect.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3120,7 +3120,7 @@ for example: alertnotify=echo %%s | mail -s &quot;OC Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. OC is shutting down.</source>
+        <source>Initialization sanity check failed. OCP is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3180,8 +3180,8 @@ for example: alertnotify=echo %%s | mail -s &quot;OC Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart OC to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați OC pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart OCP to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați OCP pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3240,8 +3240,8 @@ for example: alertnotify=echo %%s | mail -s &quot;OC Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. OC is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil OC ruleaza</translation>
+        <source>Unable to bind to %s on this computer. OCP is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil OCP ruleaza</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3275,7 +3275,7 @@ for example: alertnotify=echo %%s | mail -s &quot;OC Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. OC is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. OCP is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

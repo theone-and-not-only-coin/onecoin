@@ -3,7 +3,7 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About OC</source>
+        <source>About OCP</source>
         <translation>O OC</translation>
     </message>
     <message>
@@ -15,10 +15,10 @@
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The OC developers</source>
+Copyright © 2014 The OCP developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The OC developers</translation>
+Copyright © 2014 The OCP developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your OC addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše OC adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your OCP addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše OCP adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a OC address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto OC adresu</translation>
+        <source>Sign a message to prove you own a OCP address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto OCP adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified OC address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou OC adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified OCP address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou OCP adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+82"/>
-        <source>OC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>OC sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom, ktorý napadol váš počítač.</translation>
+        <source>OCP will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>OCP sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom, ktorý napadol váš počítač.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -397,8 +397,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a OC address</source>
-        <translation>Poslať mince na OC adresu</translation>
+        <source>Send coins to a OCP address</source>
+        <translation>Poslať mince na OCP adresu</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -443,8 +443,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>OC</source>
-        <translation>OC</translation>
+        <source>OCP</source>
+        <translation>OCP</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -453,7 +453,7 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About OC</source>
+        <source>&amp;About OCP</source>
         <translation>&amp;O OC</translation>
     </message>
     <message>
@@ -505,13 +505,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>OC client</source>
-        <translation>OC klient</translation>
+        <source>OCP client</source>
+        <translation>OCP klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to OC network</source>
-        <translation><numerusform>%n aktívne spojenie s OC sieťov</numerusform><numerusform>%n aktívnych spojení s OC sieťov</numerusform><numerusform>%n aktívnych spojení s OC sieťou</numerusform></translation>
+        <source>%n active connection(s) to OCP network</source>
+        <translation><numerusform>%n aktívne spojenie s OCP sieťov</numerusform><numerusform>%n aktívnych spojení s OCP sieťov</numerusform><numerusform>%n aktívnych spojení s OCP sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -604,8 +604,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid OC address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou OC adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid OCP address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou OCP adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -727,8 +727,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. OC can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. OC už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. OCP can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. OCP už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1061,8 +1061,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid OC address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou OC adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid OCP address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou OCP adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1080,8 +1080,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>OC-Qt</source>
-        <translation>OC-Qt</translation>
+        <source>OCP-Qt</source>
+        <translation>OCP-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1153,13 +1153,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start OC after logging in to the system.</source>
-        <translation>Automaticky spustiť OC po prihlásení sa do systému.</translation>
+        <source>Automatically start OCP after logging in to the system.</source>
+        <translation>Automaticky spustiť OCP po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start OC on system login</source>
-        <translation>&amp;Spustiť OC pri prihlásení do systému</translation>
+        <source>&amp;Start OCP on system login</source>
+        <translation>&amp;Spustiť OCP pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1168,8 +1168,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the OC client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta OC na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the OCP client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta OCP na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1198,8 +1198,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the OC network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojiť k sieti OC cez SOCKS5 proxy (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the OCP network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojiť k sieti OCP cez SOCKS5 proxy (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1329,8 +1329,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the OC network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou OC po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the OCP network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou OCP po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1404,7 +1404,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
         <source>Cannot start oc: click-to-pay handler</source>
-        <translation>OC sa nedá spustiť: click-to-pay handler</translation>
+        <translation>OCP sa nedá spustiť: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1571,8 +1571,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the OC-Qt help message to get a list with possible OC command-line options.</source>
-        <translation>Zobraziť OC-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku OC.</translation>
+        <source>Show the OCP-Qt help message to get a list with possible OCP command-line options.</source>
+        <translation>Zobraziť OCP-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku OC.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1591,12 +1591,12 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>OC - Debug window</source>
-        <translation>OC - Ladiace okno</translation>
+        <source>OCP - Debug window</source>
+        <translation>OCP - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>OC Core</source>
+        <source>OCP Core</source>
         <translation>Jadro OC</translation>
     </message>
     <message>
@@ -1606,8 +1606,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the OC debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte OC súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <source>Open the OCP debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte OCP súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1616,8 +1616,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the OC RPC console.</source>
-        <translation>Vitajte v konzole OC RPC.</translation>
+        <source>Welcome to the OCP RPC console.</source>
+        <translation>Vitajte v konzole OCP RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1797,8 +1797,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte OC adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OCP address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte OCP adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1897,8 +1897,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid OC address</source>
-        <translation>UPOZORNENIE: Neplatná OC adresa</translation>
+        <source>WARNING: Invalid OCP address</source>
+        <translation>UPOZORNENIE: Neplatná OCP adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1971,8 +1971,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte OC adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OCP address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte OCP adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2032,8 +2032,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this OC address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto OC adresu</translation>
+        <source>Sign the message to prove you own this OCP address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto OCP adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2064,8 +2064,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified OC address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou OC adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified OCP address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou OCP adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2075,8 +2075,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a OC address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte OC adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a OCP address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte OCP adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2085,8 +2085,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter OC signature</source>
-        <translation>Zadajte OC podpis</translation>
+        <source>Enter OCP signature</source>
+        <translation>Zadajte OCP podpis</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2664,7 +2664,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>OC version</source>
+        <source>OCP version</source>
         <translation>Verzia OC</translation>
     </message>
     <message>
@@ -2674,8 +2674,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or ocd</source>
-        <translation>Pošli príkaz na -server alebo ocd</translation>
+        <source>Send command to -server or ocpd</source>
+        <translation>Pošli príkaz na -server alebo ocpd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2694,13 +2694,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: oc.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: oc.conf)</translation>
+        <source>Specify configuration file (default: ocp.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: ocp.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: ocd.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: ocd.pid)</translation>
+        <source>Specify pid file (default: ocpd.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: ocpd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2723,7 +2723,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;OC Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;OCP Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
 %s
@@ -2734,7 +2734,7 @@ rpcpassword=%s
 Užívateľské meno a heslo NESMIE byť rovnaké.
 Ak súbor neexistuje, vytvorte ho s právami &quot;môže čítať iba vlastník&quot;.
 Odporúča sa tiež nastaviť &quot;alertnotify&quot;, takže budete upozornení na problémy,
-napríklad: alertnotify=echo %%s | mail -s &quot;OC upozornenie&quot; admin@foo.com
+napríklad: alertnotify=echo %%s | mail -s &quot;OCP upozornenie&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2839,8 +2839,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;OC upozornenie&quot; admin@foo.
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong OC will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny OC nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong OCP will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny OCP nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3134,8 +3134,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;OC upozornenie&quot; admin@foo.
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. OC is shutting down.</source>
-        <translation>Úvodné kontrolné testy zlyhali. OC sa teraz zatvori.</translation>
+        <source>Initialization sanity check failed. OCP is shutting down.</source>
+        <translation>Úvodné kontrolné testy zlyhali. OCP sa teraz zatvori.</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -3194,8 +3194,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;OC upozornenie&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart OC to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte OC k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart OCP to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte OCP k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3254,8 +3254,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;OC upozornenie&quot; admin@foo.
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. OC is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. OC je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. OCP is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. OCP je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3289,8 +3289,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;OC upozornenie&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. OC is probably already running.</source>
-        <translation>Nedá sa zamknúť dátová zložka %s. OC je pravdepodobne už spustený</translation>
+        <source>Cannot obtain a lock on data directory %s. OCP is probably already running.</source>
+        <translation>Nedá sa zamknúť dátová zložka %s. OCP je pravdepodobne už spustený</translation>
     </message>
     <message>
         <location line="+4"/>
