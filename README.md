@@ -45,5 +45,7 @@ OCP on web and social:
 
 - Discord: https://discord.gg/pZ3mxRZ
 
+- MarketData on Coinpaprika: https://coinpaprika.com/coin/ocp-oc-protocol/
+
 
 
