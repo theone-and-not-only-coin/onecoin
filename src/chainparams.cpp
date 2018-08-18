@@ -83,16 +83,16 @@ public:
         assert(hashGenesisBlock == uint256("0x00000068ea1bda5d79b59679d475024f8bc3344a5571a2c00bed231c7495fae6"));
         assert(genesis.hashMerkleRoot == uint256("0x77ddb788074e852f05e6df55d8cbe2fdfa943905b6b83e47e4b8698ba7300b27"));
 
-        // Add seednodes below //
-        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp1.seednode.org"));
-        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp2.seednode.org"));
-        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp3.seednode.org"));
-        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp4.seednode.org"));
-        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp5.seednode.org"));
-        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp6.seednode.org"));
-        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp7.seednode.org"));
-        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp8.seednode.org"));
-        //  vSeeds.push_back(CDNSSeedData("yourdomain.com",  "ocp9.seednode.org"));
+      
+        vSeeds.push_back(CDNSSeedData("seednode.org",  "ocp1.seednode.org"));
+        vSeeds.push_back(CDNSSeedData("seednode.org",  "ocp2.seednode.org"));
+        vSeeds.push_back(CDNSSeedData("seednode.org",  "ocp3.seednode.org"));
+        vSeeds.push_back(CDNSSeedData("seednode.org",  "ocp4.seednode.org"));
+        vSeeds.push_back(CDNSSeedData("seednode.org",  "ocp5.seednode.org"));
+        vSeeds.push_back(CDNSSeedData("seednode.org",  "ocp6.seednode.org"));
+        vSeeds.push_back(CDNSSeedData("seednode.org",  "ocp7.seednode.org"));
+        vSeeds.push_back(CDNSSeedData("seednode.org",  "ocp8.seednode.org"));
+        vSeeds.push_back(CDNSSeedData("seednode.org",  "ocp9.seednode.org"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,0);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,5);
@@ -143,8 +143,8 @@ public:
         hashGenesisBlock = genesis.GetHash();
         assert(hashGenesisBlock == uint256("0x0000b4d12c8764bbcad6ab4c55d935cba73f4b48796bee054ca9a76a4c79d83a"));
 
-        vFixedSeeds.clear();
-        vSeeds.clear();
+        vSeeds.push_back(CDNSSeedData("ocprotocol.com", "test1.ocprotocol.com"));
+        vSeeds.push_back(CDNSSeedData("ocprotocol.com", "test2.ocprotocol.com"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 111);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 196);
