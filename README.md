@@ -33,7 +33,11 @@ OCP on web and social:
 
 - Telegram: https://t.me/occointelegram
 
-- Website: https://occnetwork.co/
+- Community github hosted website: https://ocprotocol.com/
+
+- Member hosted and managed website: https://ocprotocol.org
+
+- Spare domain for something cool: htts://ocprotocol.net
 
 - Market: https://www.coinexchange.io/market/OC/BTC
 
