@@ -31,7 +31,7 @@ OCP on web and social:
 
 - Facebook: https://www.facebook.com/OCP.OpenSourceCryptocurrency.OC/
 
-- Telegram: https://t.me/occointelegram
+- Telegram: https://t.me/joinchat/D32pHFBeRZPPaeN_Cv5trQ
 
 - Community github hosted website: https://ocprotocol.com/
 
