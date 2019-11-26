@@ -31,11 +31,11 @@ OCP on web and social:
 
 - Facebook: https://www.facebook.com/OCP.OpenSourceCryptocurrency.OC/
 
-- Telegram: https://t.me/joinchat/D32pHFBeRZPPaeN_Cv5trQ
+- Telegram: https://t.me/OCProtocol_OCP
 
 - Community github hosted website: https://ocprotocol.com/
 
-- Member hosted and managed website: https://ocprotocol.org
+- Community github hosted website: https://ocprotocol.org
 
 - Spare domain for something cool: htts://ocprotocol.net
 
@@ -45,11 +45,11 @@ OCP on web and social:
 
 - Blockexplorer: https://chainz.cryptoid.info/oc/
 
-- Medium: https://medium.com/@OCProtocol
-
 - Discord: https://discord.gg/pZ3mxRZ
 
 - MarketData on Coinpaprika: https://coinpaprika.com/coin/ocp-oc-protocol/
+
+- BitcoinTalk: https://bitcointalk.org/index.php?topic=2313497
 
 
 
