@@ -37,13 +37,13 @@ OCP on web and social:
 
 - Community github hosted website: https://ocprotocol.org
 
-- Spare domain for something cool: htts://ocprotocol.net
+- Spare domain for something cool: https://ocprotocol.net
 
-- Market: https://www.coinexchange.io/market/OC/BTC
+- Market: No current active markets
 
 - Twitter: https://twitter.com/OC_Crypto
 
-- Blockexplorer: https://chainz.cryptoid.info/oc/
+- Blockexplorer: https://chainz.cryptoid.info/oc/ (delisted, will be reinstated with donations)
 
 - Discord: https://discord.gg/pZ3mxRZ
 
