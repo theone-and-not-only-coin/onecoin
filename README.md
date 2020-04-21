@@ -27,6 +27,8 @@ Proof of Work:
 Proof of Stake:
 - NO REWARD, ONLY TRANSACTION FEES
 
+-Boostrap files/Chain snapshots: http://pc.cd/6sl7
+
 OCP on web and social:
 
 - Facebook: https://www.facebook.com/OCP.OpenSourceCryptocurrency.OC/
