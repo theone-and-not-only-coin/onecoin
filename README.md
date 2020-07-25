@@ -45,7 +45,7 @@ OCP on web and social:
 
 - Twitter: https://twitter.com/OC_Crypto
 
-- Blockexplorer: https://chainz.cryptoid.info/oc/ (delisted, will be reinstated with donations)
+- Blockexplorer: https://chainz.cryptoid.info/ocp/ (delisted, will be reinstated with donations)
 
 - Discord: https://discord.gg/pZ3mxRZ
 
