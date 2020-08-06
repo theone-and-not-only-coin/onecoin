@@ -35,11 +35,13 @@ OCP on web and social:
 
 - Telegram: https://t.me/OCProtocol_OCP
 
-- Community github hosted website: https://ocprotocol.com/
+- Self hosted WP website: https://ocprotocol.com/ (in the works)
 
-- Community github hosted website: https://ocprotocol.org
+- Community github hosted website (fork it improve it): https://ocprotocol.org
 
 - Spare domain for something cool: https://ocprotocol.net
+
+- Awesome domains for the something cool in the  future: https://ocp.cash - https://ocp.digital
 
 - Market: No current active markets
 
@@ -48,6 +50,10 @@ OCP on web and social:
 - Blockexplorer: https://chainz.cryptoid.info/ocp/ 
 
 - Discord: https://discord.gg/pZ3mxRZ
+
+- MarketData on Coinpaprika: https://coinpaprika.com/coin/ocp-oc-protocol/
+
+- MarketData on Coinpaprika: https://coinpaprika.com/coin/ocp-oc-protocol/
 
 - MarketData on Coinpaprika: https://coinpaprika.com/coin/ocp-oc-protocol/
 
