@@ -4,8 +4,6 @@ This is the initial v1.0 source code. Network starts March 1st, 2017. Unix time:
 
 Please check relevant forum (bitcointalk) if new updated forks are used.
 
-There are no seed nodes so your wallet will not connect, again see forums for users posting their IP addresses for bootstraping.
-
 About the coin:
 
 - Name: OCProtocol Ticker: OCP
