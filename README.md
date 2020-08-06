@@ -51,9 +51,9 @@ OCP on web and social:
 
 - MarketData on Coinpaprika: https://coinpaprika.com/coin/ocp-oc-protocol/
 
-- MarketData on Coinpaprika: https://coinpaprika.com/coin/ocp-oc-protocol/
+- MarketData on CoinGecko: https://www.coingecko.com/en/coins/oc-protocol
 
-- MarketData on Coinpaprika: https://coinpaprika.com/coin/ocp-oc-protocol/
+- MarketData on CoinMarketCap: Well CMC removed OCP from index, maybe someone will do the form and add it (if it happens this file will be updated)
 
 - BitcoinTalk original thread by the original anon developer: https://bitcointalk.org/index.php?topic=1801129.0 (dont confuse the ponzi scam and read the thread)
 
@@ -63,6 +63,10 @@ OCP on web and social:
 
 - BitcoinTalk reloaded and back from the dead: #soon
 
+
+Code, web, social,anything open source: hello@ocprotocol.com
+
+Marketing and listing contacts: The is no contact, source is public at least 4 dns seeds are 24/7/365 online, updated bootstrap.dat file a few lines above as well as latest logo versions. Exchange listings agents dont bother OCP doesnt care about your special offer for your fake volume sql trading exchange. Exchanges are open and free to list OCP if they think its a cool and reliable blockchain ledger.
 
 
 ## Support future development of OCP
