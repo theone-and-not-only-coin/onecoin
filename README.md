@@ -43,7 +43,7 @@ OCP on web and social:
 
 - Market: No current active markets
 
-- Twitter: https://twitter.com/OC_Crypto
+- Twitter: https://twitter.com/OCP_Crypto
 
 - Blockexplorer: https://chainz.cryptoid.info/ocp/ 
 
