@@ -45,13 +45,21 @@ OCP on web and social:
 
 - Twitter: https://twitter.com/OC_Crypto
 
-- Blockexplorer: https://chainz.cryptoid.info/ocp/ (delisted, will be reinstated with donations)
+- Blockexplorer: https://chainz.cryptoid.info/ocp/ 
 
 - Discord: https://discord.gg/pZ3mxRZ
 
 - MarketData on Coinpaprika: https://coinpaprika.com/coin/ocp-oc-protocol/
 
-- BitcoinTalk: https://bitcointalk.org/index.php?topic=2313497
+- BitcoinTalk original thread by the original anon developer: https://bitcointalk.org/index.php?topic=1801129.0 (dont confuse the ponzi scam and read the thread)
+
+- BitcoinTalk rebrand thread from $ONE to $OC: https://bitcointalk.org/index.php?topic=2313497
+
+- BitcoinTalk updated thread $OCP :  https://bitcointalk.org/index.php?topic=4743828.0
+
+- BitcoinTalk reloaded and back from the dead: #soon
+
+
 
 ## Support future development of OCP
 
