@@ -248,8 +248,6 @@ public:
             BIGNUM *r = BN_dup(ECDSA_SIG_get0_r(sig));
             BN_sub(s, order, s);
             ECDSA_SIG_set0(sig, r, s);
-            BN_free(s);
-            BN_free(r);
         }
 #endif
         BN_CTX_end(ctx);
@@ -329,8 +327,6 @@ public:
         BN_bin2bn(&p64[0],  32, r);
         BN_bin2bn(&p64[32], 32, s);
         ECDSA_SIG_set0(sig, r, s);
-        BN_free(r);
-        BN_free(s);
 #endif
         bool ret = ECDSA_SIG_recover_key_GFp(pkey, sig, (unsigned char*)&hash, sizeof(hash), rec, 0) == 1;
         ECDSA_SIG_free(sig);
@@ -497,8 +493,6 @@ bool EnsureLowS(std::vector<unsigned char>& vchSig) {
         BIGNUM *r = BN_dup(ECDSA_SIG_get0_r(sig));
         BN_sub(s, order, s);
         ECDSA_SIG_set0(sig, r, s);
-        BN_free(s);
-        BN_free(r);
     }
 #endif
 
