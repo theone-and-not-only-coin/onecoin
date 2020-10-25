@@ -25,7 +25,9 @@ Proof of Work:
 Proof of Stake:
 - NO REWARD, ONLY TRANSACTION FEES
 
--Boostrap files/Chain snapshots: http://pc.cd/6sl7
+-Boostrap files/Chain snapshots: ( pCloud http://pc.cd/6sl7 )
+
+-Boostrap files/Chain snapshots: (MS OneDrive https://1drv.ms/u/s!AklKAv1s6c88gQgxagEvuPmjKYy4?e=OTBZnL )
 
 OCP on web and social:
 
