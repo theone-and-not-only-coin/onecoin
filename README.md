@@ -20,7 +20,7 @@ Proof of Work:
 - NO PREMINE
 - NO REWARD until height 500 (to avoid lowdiff instamine)
 - After block 500, reward is 50 COINS.
-- Halving every 4 years (every 420480 blocks)
+- Halving every 420480 blocks (estimated 4 years+)
 
 Proof of Stake:
 - NO REWARD, ONLY TRANSACTION FEES
