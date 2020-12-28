@@ -47,6 +47,7 @@ OCP on web and social:
 
 * FreiExchange: https://freiexchange.com/market/OCP/BTC
 * Bololex: http://bololex.ocpprotocol.com
+* Unnamed: https://unnamed.exchange
 
 - Twitter: https://twitter.com/OCP_Crypto
 
