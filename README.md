@@ -12,6 +12,7 @@ About the coin:
 - PoW mining algorithm: SHA256T (Tripple Sha256)
 - Max coins: 21 milion (approximate)
 - Addresses start with 1 (same as bitcoin)
+- Coinbase maturity: 250 blocks
 - P2P Port: 8881 RPC Port: 8882
 
 Reward scheme:
