@@ -15,7 +15,7 @@ Please check relevant forum (bitcointalk) if new updated forks are used.
 - Coinbase maturity: 250 blocks
 - P2P Port: 8881 RPC Port: 8882
 
-Reward scheme:
+# Reward scheme:
 
 Proof of Work:
 - NO PREMINE
@@ -26,11 +26,13 @@ Proof of Work:
 Proof of Stake:
 - NO REWARD, ONLY TRANSACTION FEES
 
+# Blockchain snapshots/bootstraps 
+
 -Boostrap files/Chain snapshots: ( pCloud http://pc.cd/6sl7 )
 
 -Boostrap files/Chain snapshots: (MS OneDrive https://1drv.ms/u/s!AklKAv1s6c88gQgxagEvuPmjKYy4?e=OTBZnL )
 
-OCP on web and social:
+# OCP on web and social:
 
 - Facebook: https://www.facebook.com/OCP.OpenSourceCryptocurrency.OC/
 
@@ -44,7 +46,7 @@ OCP on web and social:
 
 - Awesome domains for the something cool in the  future: https://ocp.cash - https://ocp.digital
 
-- Markets: 
+# Markets: 
 
 * FreiExchange: https://freiexchange.com/market/OCP/BTC
 * Bololex: http://bololex.ocpprotocol.com
