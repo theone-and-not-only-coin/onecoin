@@ -4,7 +4,7 @@ This is the initial v1.0 source code. Network starts March 1st, 2017. Unix time:
 
 Please check relevant forum (bitcointalk) if new updated forks are used.
 
-About the coin:
+# About the coin:
 
 - Name: OCProtocol Ticker: OCP
 - Fork of Blackcoin (added miner (setgenerate), removed alert function, cleaned up the forks, other details below)
