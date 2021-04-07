@@ -28,15 +28,29 @@ Proof of Stake:
 
 # Blockchain snapshots/bootstraps 
 
--Boostrap files/Chain snapshots: ( pCloud http://pc.cd/6sl7 )
+- Boostrap files/Chain snapshots: ( pCloud http://pc.cd/6sl7 )
 
--Boostrap files/Chain snapshots: (MS OneDrive https://1drv.ms/u/s!AklKAv1s6c88gQgxagEvuPmjKYy4?e=OTBZnL )
+- Boostrap files/Chain snapshots: (MS OneDrive https://1drv.ms/u/s!AklKAv1s6c88gQgxagEvuPmjKYy4?e=OTBZnL )
 
 # OCP on web and social:
 
 - Facebook: https://www.facebook.com/OCP.OpenSourceCryptocurrency.OC/
 
 - Telegram: https://t.me/OCProtocol_OCP
+
+- Twitter: https://twitter.com/OCP_Crypto
+
+- Blockexplorer: https://chainz.cryptoid.info/ocp/ 
+
+- Discord: https://discord.gg/pZ3mxRZ
+
+- BitcoinTalk original thread by the original anon developer: https://bitcointalk.org/index.php?topic=1801129.0 (dont confuse the ponzi scam and read the thread)
+
+- BitcoinTalk rebrand thread from $ONE to $OC: https://bitcointalk.org/index.php?topic=2313497
+
+- BitcoinTalk updated thread $OCP :  https://bitcointalk.org/index.php?topic=4743828.0
+
+- BitcoinTalk reloaded and back from the dead: #soon
 
 - Self hosted WP website: https://ocprotocol.com/ (in the works)
 
@@ -46,31 +60,17 @@ Proof of Stake:
 
 - Awesome domains for the something cool in the  future: https://ocp.cash - https://ocp.digital
 
-# Markets: 
+# Exchanges and market data: 
 
 * FreiExchange: https://freiexchange.com/market/OCP/BTC
 * Bololex: http://bololex.ocpprotocol.com
 * Unnamed: https://unnamed.exchange
 
-- Twitter: https://twitter.com/OCP_Crypto
-
-- Blockexplorer: https://chainz.cryptoid.info/ocp/ 
-
-- Discord: https://discord.gg/pZ3mxRZ
-
 - MarketData on Coinpaprika: https://coinpaprika.com/coin/ocp-oc-protocol/
-
 - MarketData on CoinGecko: https://www.coingecko.com/en/coins/oc-protocol
-
 - MarketData on CoinMarketCap: https://coinmarketcap.com/currencies/oc-protocol/
 
-- BitcoinTalk original thread by the original anon developer: https://bitcointalk.org/index.php?topic=1801129.0 (dont confuse the ponzi scam and read the thread)
 
-- BitcoinTalk rebrand thread from $ONE to $OC: https://bitcointalk.org/index.php?topic=2313497
-
-- BitcoinTalk updated thread $OCP :  https://bitcointalk.org/index.php?topic=4743828.0
-
-- BitcoinTalk reloaded and back from the dead: #soon
 
 
 Code, web, social,anything open source: hello@ocprotocol.com
