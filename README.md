@@ -32,6 +32,10 @@ Proof of Stake:
 
 - Boostrap files/Chain snapshots: (MS OneDrive https://1drv.ms/u/s!AklKAv1s6c88gQgxagEvuPmjKYy4?e=OTBZnL )
 
+# Mining Pool
+
+- "Official pool": https://pool.ocprotocol.com
+
 # OCP on web and social:
 
 - Facebook: https://www.facebook.com/OCP.OpenSourceCryptocurrency.OC/
@@ -58,8 +62,6 @@ Proof of Stake:
 
 - Spare domain for something cool: https://ocprotocol.net
 
-- Awesome domains for the something cool in the  future: https://ocp.cash - https://ocp.digital
-
 # Exchanges and market data: 
 
 * FreiExchange: https://freiexchange.com/market/OCP/BTC
@@ -69,8 +71,6 @@ Proof of Stake:
 - MarketData on Coinpaprika: https://coinpaprika.com/coin/ocp-oc-protocol/
 - MarketData on CoinGecko: https://www.coingecko.com/en/coins/oc-protocol
 - MarketData on CoinMarketCap: https://coinmarketcap.com/currencies/oc-protocol/
-
-
 
 
 Code, web, social,anything open source: hello@ocprotocol.com
