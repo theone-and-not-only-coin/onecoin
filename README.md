@@ -58,10 +58,6 @@ Proof of Stake:
 
 - Self hosted WP website: https://ocprotocol.com/ (in the works)
 
-- Community github hosted website (fork it improve it): https://ocprotocol.org
-
-- Spare domain for something cool: https://ocprotocol.net
-
 # Exchanges and market data: 
 
 * FreiExchange: https://freiexchange.com/market/OCP/BTC
