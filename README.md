@@ -62,7 +62,7 @@ Proof of Stake:
 
 * FreiExchange: https://freiexchange.com/market/OCP/BTC
 * Bololex: http://bololex.ocpprotocol.com
-* Unnamed: https://unnamed.exchange
+* Xeggex: https://xeggex.com/asset/OCP
 
 - MarketData on Coinpaprika: https://coinpaprika.com/coin/ocp-oc-protocol/
 - MarketData on CoinGecko: https://www.coingecko.com/en/coins/oc-protocol
